@@ -1,0 +1,22 @@
+.operation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ant-popover {
+    width: 140px !important;
+}
+
+.ant-table-pagination.ant-pagination {
+    width: 600px;
+
+    float: right;
+}
+
+.selectAll {
+    position: absolute;
+    height: 20px;
+    width: 150px !important;
+    bottom: 10px;
+    left: 20px;
+}

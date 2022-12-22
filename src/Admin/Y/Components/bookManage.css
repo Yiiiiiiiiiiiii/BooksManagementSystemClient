@@ -1,0 +1,45 @@
+.bookMange_top {
+    width: 100%;
+    height: 60px;
+    /* background-color: aquamarine; */
+    position: relative;
+}
+
+.bookMange_topadd {
+    position: absolute;
+    right: 100px;
+    top: 5px;
+}
+
+.bookMange_topadd_icon {
+    float: right;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+}
+
+.bookMange_topsearch{
+    position: absolute;
+    left: 30px;
+    top: 8px;
+}
+/* .ant-input {
+  
+    width: 230px !important;
+    height: 40px !important;
+    line-height: 40px !important;
+} */
+.ant-input-group >.ant-input:first-child{
+    width: 230px !important;
+    height: 40px !important;
+    line-height: 40px !important;
+}
+
+.ant-btn-primary {
+    background-color: rgb(94, 194, 196) !important;
+
+}
+.ant-btn{
+    height: 40px !important;
+}

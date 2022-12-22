@@ -1,0 +1,17 @@
+.box {
+    height: calc(100vh-100px);
+}
+
+.search {
+    height: 60px;
+    margin-left: 25px;
+}
+
+.searchson {
+    margin-top: 15px;
+    /* margin-left: 25px; */
+}
+
+.tablesize {
+    height: 609px;
+}

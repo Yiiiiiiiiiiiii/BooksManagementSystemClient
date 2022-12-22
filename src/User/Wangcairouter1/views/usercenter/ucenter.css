@@ -1,0 +1,58 @@
+.wc_box{
+    
+    margin-left: 50px;
+}
+.wc_box input{
+    width: calc(30%);
+    height: 22px;
+    border-radius: 5px;
+    border: 1px grey solid;
+    margin-left: 10px;
+}
+.registerbox{
+   
+    padding-left: 50px;
+    /* background-color: cornflowerblue; */
+}
+
+.registerbox label{
+    display: block;
+    margin-top: 30px;
+}
+.sexInput{
+    display:flex;
+    /* width: calc(20%); */
+}
+.sexBox{
+    margin-top: 30px;
+}
+
+.touxiang{
+    width: 100px;
+    height: 100px;
+    background-size: 100% 100%;
+    /* margin-top: 10px; */
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.touxiang input{
+    width: 100px;
+    height: 100px;
+    opacity: 0;
+}
+.wc_btn{
+    width:70px;
+    height: 35px;
+    /* position: relative; */
+    margin-top: 30px;
+    /* margin-left: calc(70%); */
+    background-color: rgb(218, 229, 233);
+    border: 1px rgb(248, 241, 241) solid;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.wc_btn:hover{
+    background-color: rgb(187, 203, 209);
+}
+

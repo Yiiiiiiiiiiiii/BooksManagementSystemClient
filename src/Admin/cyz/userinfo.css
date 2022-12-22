@@ -1,0 +1,53 @@
+.userinfo{
+    height: 100%;
+    /* background-color: aquamarine; */
+}
+.inputstyle{
+    width: 150px;
+    margin-right: 910px;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+.bottonbox{
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: space-around;
+}
+.addbuttonstyle{
+    margin-left: 500px;
+}
+.addbutton{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+.adduser{
+    margin-right: 10px;
+}
+button{
+    background-color: #1677FF;
+    border-radius: 4px;
+    border: 0px;
+    display: flexbox;
+    padding: 5px 10px;
+    /* width: 30px; */
+    /* color: black; */
+}
+button>a{
+    color: white;
+    letter-spacing:5px
+}
+#tableclass{
+    /* text-align: center; */
+    /* background-color: aqua; */
+    display: flexbox;
+    margin-left: 10px;
+
+}
+.sex{
+    width: 100px;
+    text-align: center;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+}

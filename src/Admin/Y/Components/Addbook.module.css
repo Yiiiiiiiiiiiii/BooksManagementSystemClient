@@ -1,0 +1,39 @@
+.bigbox {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(243, 243, 243);
+    position: relative;
+}
+
+.center {
+    width: 600px;
+    height: 400px;
+    margin: 100px auto;
+    border-radius: 20px;
+    background-color: white;
+    overflow: hidden;
+    position: relative;
+
+  
+}
+.form{
+    position: absolute;
+    top: 35px;
+    bottom: 0;
+    left:0;
+    right: 0;
+    margin: auto;
+}
+
+.number{
+    box-sizing: border-box;
+
+    width: 200px;
+}
+.btn {
+    position: absolute;
+    width: 200px;
+    background-color: #5EC2C4;
+    top: 320px;
+}
